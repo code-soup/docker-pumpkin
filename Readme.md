@@ -1,5 +1,5 @@
 # Pumpkin Docker Image
-Ubuntu based docker image for deploying Pumpkin WordPress starter theme using bitbucket pipeline with git-ftp. Works with FTP and SFTP protocols.
+Ubuntu based docker image for deploying Code Soup WordPress starter themes using bitbucket pipeline with git-ftp. Works with FTP and SFTP protocols.
 [https://hub.docker.com/r/codesoup/pumpkin](https://hub.docker.com/r/codesoup/pumpkin)
 
 

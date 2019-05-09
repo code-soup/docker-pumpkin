@@ -14,6 +14,7 @@ WordPress starter theme Pumpkin:
 - Composer 1.6.3
 - Node 8.10.0
 - NPM 3.5.2
+- git 2.17.1
 - Git-ftp 1.5.2 (with support for SFTP)
 - curl 7.64.1
 
